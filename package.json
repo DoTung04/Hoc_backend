@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "hoc backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoTung04/Hoc_backend.git"
+  },
+  "author": "Hoang_Tung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoTung04/Hoc_backend/issues"
+  },
+  "homepage": "https://github.com/DoTung04/Hoc_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
